@@ -31,3 +31,22 @@ CLn› sidel >›side2 > side3;
 bool isEqu = (side1 › 0) && (sidel — side2) && (side2 - side3); 
 cout < isEqu < endl;
 return 0;
+
+// Program 4
+// swapping of two variables
+#include <iostream» 
+using namespace std;
+
+int main( ){
+    int a, b;
+cin >> a >> b;
+
+// Logic to swap variables value
+int temp = a;
+a = b;
+b - temp;
+/ printing the values
+cout « a « "\n" <<b endl;
+return 0;
+
+}
