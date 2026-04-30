@@ -22,6 +22,8 @@ result=Colobalvarioble / localvarabte):
 cout < result < endl;
 return 0;
 
+3 PROGRAME
+
 int main() {
 int sidel,side?, side3;
 CLn› sidel >›side2 > side3;
